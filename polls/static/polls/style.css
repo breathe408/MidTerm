@@ -1,8 +1,12 @@
 body {
-    background: white url("images/toy.jpg")no-repeat;
-    background-position: right bottom;
+    background: lightblue url("images/toy.png") repeat;
 }
 
 li a {
-    color:green;
+    color: darkred;
+}
+
+li {
+    text-align: center;
+    list-style: none;
 }

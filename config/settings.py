@@ -25,7 +25,7 @@ SECRET_KEY = '5!@fqe_$mdm!&g*awbmpa-=n$cfmmow3)=5wj4sjcpj2@ufxx&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS=['*']
 
 
 # Application definition
